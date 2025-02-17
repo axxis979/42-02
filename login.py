@@ -10,4 +10,7 @@ str = 'the first time check the file by wangwu '
 
 str = 'the first time check by mana'
 
+str = ' the secondary reference by mana'
+
+
 
