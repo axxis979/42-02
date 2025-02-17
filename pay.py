@@ -5,3 +5,7 @@
  pay = 3
 
  over
+
+ str = 'test again 1.0'
+
+
