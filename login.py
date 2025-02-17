@@ -5,3 +5,6 @@
 str = 'learning git online process 1.0'
 
 str =' from mana git online reading 1.0'
+
+str = 'the first time check the file by wangwu '
+
